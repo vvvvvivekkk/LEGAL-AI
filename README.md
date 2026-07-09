@@ -10,12 +10,11 @@ author: vvvvvivekkk
 ---
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+LEGAL-AI is an enterprise-grade AI platform for legal research, statutory search, and intelligent document analysis.
 
-LEGAL-AI is a legal retrieval-augmented generation system for statutory and case-law workflows. It combines offline corpus preprocessing, language-aware hybrid retrieval, graph expansion, reranking, and an interactive FastAPI + browser UI for evidence-backed answers.
+The platform combines Retrieval-Augmented Generation (RAG), Hybrid Search, BM25, Dense Retrieval, Vector Databases, and Large Language Models to provide accurate, explainable, and citation-backed legal assistance.
 
-The project is designed for local deployment. You can run it fully offline with compatible open-source models, or point it at an OpenAI-compatible backend when you want hosted inference.
-
-## What It Does
+Designed with production-ready architecture, LEGAL-AI supports secure document ingestion, semantic search, hybrid retrieval, and scalable deployment for legal professionals, researchers, enterprises, and educational institutions.
 
 - Ingests legal text and PDFs into structured chunks.
 - Builds dense, sparse, and optional ColBERT indexes.
