@@ -108,6 +108,6 @@ LEGAL-AI/
 - LEGAL-AI is intended for research and information assistance, not legal advice.
 
 ## License
+## License
 
 Apache-2.0. See [LICENSE](LICENSE) for the full text.
-"# LEGAL-AI" 
